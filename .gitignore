@@ -1,2 +1,5 @@
+# Ignore cached data.
+build/
+
 # Ignore VS Code settings.
 .vscode/
